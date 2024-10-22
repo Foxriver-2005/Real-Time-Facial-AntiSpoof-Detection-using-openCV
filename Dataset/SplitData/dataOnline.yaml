@@ -1,0 +1,7 @@
+path: ../Data
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+no: 2
+names: ['fake', 'real']
